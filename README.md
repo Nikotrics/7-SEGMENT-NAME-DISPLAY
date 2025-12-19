@@ -26,3 +26,7 @@ It shows basic concepts of digital electronics and controlling displays.
 - Images & video of display is in folder
 
 ## Folder Structure
+1. Proteus
+2. Software
+3. Hardware
+4. Videos
