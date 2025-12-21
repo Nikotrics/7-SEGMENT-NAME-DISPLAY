@@ -35,3 +35,7 @@ It shows basic concepts of digital electronics and controlling displays.
 2. Software
 3. Hardware
 4. Videos
+
+## © 2025 Humeez Qureshi  
+All images, videos & circuit in this repository are protected.  
+No reuse, redistribution, or modification without permission.
