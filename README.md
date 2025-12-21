@@ -2,7 +2,7 @@
 
 ![Hardware Project](https://img.shields.io/badge/Type-Hardware_Project-blue)
 ![Electronics](https://img.shields.io/badge/Electronics-555555)
-![Medium](https://img.shields.io/badge/Level-Medium_Project-green)
+![Medium](https://img.shields.io/badge/Level-Medium-green)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ## Description
