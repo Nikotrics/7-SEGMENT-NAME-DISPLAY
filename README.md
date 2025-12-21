@@ -1,5 +1,10 @@
 # DISPLAYING NAME ON SEVEN SEGMENT DISPLAY
 
+![Hardware Project](https://img.shields.io/badge/Type-Hardware_Project-blue)
+![Electronics](https://img.shields.io/badge/Electronics-555555)
+![Medium Project](https://img.shields.io/badge/Level-Medium_Project-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 ## Description
 This project demonstrates how to display a name or characters using a **seven-segment display**.  
 It shows basic concepts of digital electronics and controlling displays.
